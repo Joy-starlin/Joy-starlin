@@ -22,7 +22,6 @@
 
 ##  Connect with me
 -  LinkedIn: [https://www.linkedin.com/in/karen-joy-b8807b328](#)
--  Twitter/X: [@joy_starlin](#)
 -  Email:[jaylojoy123@gmail.com](#)
 
 ## Fun fact
