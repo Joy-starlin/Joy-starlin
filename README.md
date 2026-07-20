@@ -8,7 +8,6 @@
 
 ## What I'm working on
 - Learning Python and ML fundamentals
-- Building web projects with HTML, CSS & JavaScript
 - Exploring how AI can solve real problems
 
  ## Currently learning
