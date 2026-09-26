@@ -1,4 +1,4 @@
-# Hi, I'm Joy 👋
+# Joy Karen
 
  Software Engineering student @ Bugema University, Uganda (Year 2)
  Specializing in **AI & Machine Learning**
